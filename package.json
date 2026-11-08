@@ -1,0 +1,1 @@
+{"name":"hangul-adventure","private":true,"scripts":{"verify":"node verify.cjs"},"devDependencies":{"msedge-tts":"2.1.1"}}
